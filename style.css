@@ -1,0 +1,15 @@
+.fundo{
+    text-align: center;
+}
+.conteiner{
+    align-content: space-between;
+    text-align: center;
+}
+button{
+    background-color: rgb(0, 153, 33);
+    color: white;
+    font-size: 32px;
+    padding: 8px 15px;
+    cursor: pointer;
+    border: 0;
+}
